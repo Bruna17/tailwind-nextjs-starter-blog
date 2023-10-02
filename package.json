@@ -19,11 +19,11 @@
     "autoprefixer": "^10.1.0",
     "gray-matter": "^4.0.2",
     "image-size": "0.9.3",
-    "next": "10.0.5",
+    "next": "10.2.0",
     "next-mdx-remote": "^2.0.0",
     "next-seo": "4.17.0",
     "next-themes": "^0.0.10",
-    "postcss": "^8.2.1",
+    "postcss": "^8.4.31",
     "preact": "^10.5.7",
     "react": "16.13.1",
     "react-dom": "16.13.1",
@@ -34,7 +34,7 @@
     "remark-footnotes": "^2.0.0",
     "remark-math": "3.0.1",
     "remark-slug": "6.0.0",
-    "tailwindcss": "^2.0.2"
+    "tailwindcss": "^2.2.0"
   },
   "devDependencies": {
     "@next/bundle-analyzer": "^10.0.0",
